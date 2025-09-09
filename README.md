@@ -33,3 +33,31 @@ I am following a structured **4-week plan**:
 ---
 
 ## 📂 Repository Structure
+/excel → Excel practice files & dashboards
+/sql → SQL queries & mini-projects
+/python → Python notebooks (EDA, Pandas practice)
+/projects → Final projects & capstone work
+progress-checklist.md → My tickable progress tracker
+README.md → Project documentation (this file)
+
+
+---
+
+## 📊 Projects
+- **Excel Dashboard:** Sales by Region/Product  
+- **SQL Report:** Customer + Sales insights  
+- **Python EDA:** Netflix/Titanic dataset  
+- **Capstone Project:** Combined SQL + Python + Dashboard analysis  
+
+---
+
+## 🎯 Goal
+By the end of this journey, I aim to:  
+- Be proficient in **Excel, SQL, Python, and Tableau/Power BI**  
+- Build a portfolio of real-world projects  
+- Prepare for **Data Analyst job opportunities**  
+
+---
+
+✍️ **Author:** [Daniiel Godwin (DatWiz)]  
+📅 **Started:** September 2025  
