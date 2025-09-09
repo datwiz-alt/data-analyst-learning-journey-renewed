@@ -33,12 +33,12 @@ I am following a structured **4-week plan**:
 ---
 
 ## 📂 Repository Structure
-/excel → Excel practice files & dashboards
-/sql → SQL queries & mini-projects
-/python → Python notebooks (EDA, Pandas practice)
-/projects → Final projects & capstone work
-progress-checklist.md → My tickable progress tracker
-README.md → Project documentation (this file)
+- /excel → Excel practice files & dashboards
+- /sql → SQL queries & mini-projects
+- /python → Python notebooks (EDA, Pandas practice)
+- /projects → Final projects & capstone work
+- progress-checklist.md → My tickable progress tracker
+- README.md → Project documentation (this file)
 
 
 ---
