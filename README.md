@@ -1,8 +1,7 @@
-# data-analyst-learning-journey-renewed
-the journey  of a thousand miles begin with a step they say, let see how better we can get with data in one month
 # 📊 Data Analyst Learning Journey
 
 Welcome to my **1-Month Data Analyst Roadmap** repository 🚀  
+The journey  of a thousand miles begin with a step they say, let see how better we can get with data in one month.
 This repo documents my progress, practice, and projects as I learn the essential skills to become a Data Analyst.  
 
 ---
