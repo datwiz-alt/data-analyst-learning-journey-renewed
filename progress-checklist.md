@@ -1,7 +1,7 @@
 # 📋 Data Analyst Learning Journey — Progress Tracker
 
 ## ✅ Week 1 — Excel + Statistics
-- [ ] Install Excel / Google Sheets  
+- [x ] Install Excel / Google Sheets  
 - [ ] Learn basic formulas (SUM, AVERAGE, IF)  
 - [ ] Apply conditional formatting  
 - [ ] Practice VLOOKUP/XLOOKUP  
